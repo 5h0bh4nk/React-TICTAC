@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+The game can be played on https://xenodochial-wozniak-c8425a.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
