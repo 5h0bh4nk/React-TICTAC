@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+Check out my project at https://xenodochial-wozniak-c8425a.netlify.app/<br>
 
 ## Available Scripts
 
