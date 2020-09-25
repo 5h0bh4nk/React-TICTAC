@@ -1,3 +1,4 @@
+import ParticlesBg from 'particles-bg';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -44,6 +45,7 @@ import './index.css';
   
     render() {
       return (
+        <>
         <div>
           <div className="board-row">
             {this.renderSquare(0)}
@@ -61,6 +63,8 @@ import './index.css';
             {this.renderSquare(8)}
           </div>
         </div>
+        <ParticlesBg type="circles" num={5} bg={true} />
+        </>
       );
     }
   }
