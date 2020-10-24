@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
-Check out my project at https://xenodochial-wozniak-c8425a.netlify.app/<br>
+Check out my project <a href="https://xenodochial-wozniak-c8425a.netlify.app/">here</a><br>
+## This project is a beginner-freindly project and anybody is welcomed to add their functionality or improve the look the project and the PRs will be marked for hacktoberfest as well . So , grab on your coffee, markdown an issue , and create a PR .<br>
 
 ## Available Scripts
 
