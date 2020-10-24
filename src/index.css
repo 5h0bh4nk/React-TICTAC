@@ -58,7 +58,7 @@ body {
   .button{
     width:120px;
     height:40px;
-    background-color: black;
+    background-color: blue;
     border-radius: 20px;
     border: 2px solid black;
   }
@@ -75,5 +75,4 @@ body {
   li{
     margin-right: 80px;
     font-size: 25px;
-      color: white;
   }
